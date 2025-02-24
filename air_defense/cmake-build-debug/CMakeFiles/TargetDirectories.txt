@@ -1,0 +1,3 @@
+C:/Users/hypermania/CLionProjects/air_defense/cmake-build-debug/CMakeFiles/air_defense.dir
+C:/Users/hypermania/CLionProjects/air_defense/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hypermania/CLionProjects/air_defense/cmake-build-debug/CMakeFiles/rebuild_cache.dir
